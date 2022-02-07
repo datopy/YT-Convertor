@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.app_navBar {
+  width: 100%;
+  padding: 60px;
+  color: white;
+  background-color: #c71215;
+}
+
+.app_linkBox {
+  padding-top: 40px;   
+} 
+.app_linkBox input {
+  padding: 20px;
+  width: 768px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.button-api-frame {
+  width: 1080px;
+  height: 250px;
+  border: 1px solid black;
+}
+
+
+.buttonDefault img {
+  width: 768px;
+  padding-top: 40px;
+}
+.buttonDefault {
+  font-size: 25px;
+}
